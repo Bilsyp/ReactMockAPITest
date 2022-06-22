@@ -18,7 +18,7 @@ const op = async ()=>{
           Read Data Friend List
       </h1>
         <table border="1" className="text-white mt-9 w-4/5 bg-gray-600 text-center hidden md:block'">
-
+// Error on Table 
           <thead>
             <th>NO.</th>
             <th>Name</th>
